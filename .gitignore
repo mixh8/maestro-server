@@ -1,0 +1,4 @@
+flask
+.env
+sqlcipher3
+__pycache__
